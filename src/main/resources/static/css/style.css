@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+     border: 1px solid black;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+th {
+    height: 50px;
+    text-align: center;
+    text-shadow: 2px 1px gray;
+    font-size: 25pt;
+    
+}
+
+.gameDiv{
+	border: 2px solid red;
+	text-align: center;
+	padding: 10px;
+	margin: 20px;
+}
+
+body{
+	 background-image: url("mickey.png");
+
+}
+
+.gameh1{
+	font-size: 50pt;
+	text-shadow: 2px 1px red;
+}
+
+h2{
+	font-size: 20pt;
+	text-shadow: 2px 1px white;
+}
+
+.loginBody{
+	background-image: url("turkey.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.loginDiv {
+		text-align: center;
+}
+
+.h1style{
+		font-size: 30pt;
+	text-shadow: 2px 1px orange;
+	
+}
+
+.displayimage{
+		background-image: url("christmas.png");
+}
+
+h3{
+	font-size: 20pt;
+	
+}
+
+.questionbox{
+	width: 700px;
+	margin: 10px
+}
+h4{
+	color: red;
+}
+
+#getting-started{
+		font-size: 40pt;
+		color: red;
+}
+
+.selectinput {
+	font-size: 20pt;
+}
+
+.button{
+	font-size: 20pt;
+	 border-radius: 25px;
+	 padding: 10px;
+	 background-color: aqua;
+	  box-shadow: 10px 5px 5px;
+	 
+}
+
+.score {
+	font-size: 30pt;
+	color: red;
+	text-shadow: 2px 1px white;
+	
+}
